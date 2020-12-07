@@ -1,4 +1,4 @@
-# cautious-chainsaw
+# Pan Sharpening
 IHS and Brovey pan-sharpening methods in matlab.
 
 Function takes a multispectral image and a panchromatic image as an input, then proceeds to run two different pan sharpening methods: 
